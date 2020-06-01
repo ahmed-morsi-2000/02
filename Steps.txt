@@ -8,3 +8,7 @@ Create
 unstage
 3) ثم نقوم بوضعه في 
 Stage
+
+4)لا تنسي يجب عمل 
+	PULL First
+	Then PUSH 
